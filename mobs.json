@@ -22,16 +22,16 @@
         "name": "rabbit",
         "level": 2,
         "stats": {
-            "hp": 60,
-            "maxhp": 60,
-            "STR": 7,
-            "VIT": 15,
-            "AGI": 30,
+            "hp": 10,
+            "maxhp": 10,
+            "STR": 3,
+            "VIT": 5,
+            "AGI": 23,
             "INT": 3,
             "WIS": 3,
             "luck": 4,
-            "attack": 7,
-            "defense": 2
+            "attack": 1,
+            "defense": 1
         },
         "xp": 15,
         "copper": 3,
@@ -54,7 +54,7 @@
         },
         "xp": 20,
         "copper": 5,
-        "sliver": 1,
+        "silver": 1,
         "drops": ["2", "7"]
     },
     "4": {
@@ -74,7 +74,7 @@
         },
         "xp": 30,
         "copper": 7,
-        "sliver": 3,
+        "silver": 3,
         "drops": ["1", "5"]
 
     },
@@ -95,7 +95,7 @@
         },
         "xp": 35,
         "copper": 10,
-        "sliver": 3,
+        "silver": 3,
         "drops": ["1", "10", "9"]
     },
     "6": {
@@ -115,7 +115,7 @@
         },
         "xp": 50,
         "copper": 10,
-        "sliver": 4,
+        "silver": 4,
         "drops": ["1", "2", "9", "10"]
     },
     "7": {
@@ -135,7 +135,7 @@
         },
         "xp": 130,
         "copper": 12,
-        "sliver": 7,
+        "silver": 7,
         "drops": ["1", "9", "10"]
     },
     "8": {
@@ -155,7 +155,7 @@
         },
         "xp": 270,
         "copper": 50,
-        "sliver": 20,
+        "silver": 20,
         "gold": 5,
         "drops": ["9", "10"]
     },
@@ -176,8 +176,122 @@
         },
         "xp": 9999,
         "copper": 9999,
-        "sliver": 9999,
+        "silver": 9999,
         "gold": 9999,
         "drops": ["9", "10"]
+    },        
+    "10": {
+        "name": "Boar",
+        "level": 5,
+        "stats": {
+            "hp": 20,
+            "maxhp": 20,
+            "STR": 7,
+            "VIT": 6,
+            "AGI": 11,
+            "INT": 2,
+            "WIS": 2,
+            "luck": 2,
+            "attack": 4,
+            "defense": 4
+        },
+        "xp": 4,
+        "copper": 28,
+        "drops": ["1"]
+    },
+    "11": {
+        "name": "boar",
+        "level": 6,
+        "stats": {
+            "hp": 20,
+            "maxhp": 20,
+            "STR": 8,
+            "VIT": 7,
+            "AGI": 12,
+            "INT": 3,
+            "WIS": 3,
+            "luck": 2,
+            "attack": 4,
+            "defense": 4
+        },
+        "xp": 4,
+        "copper": 39,
+        "drops": ["1"]
+    },
+    "12": {
+        "name": "boar",
+        "level": 7,
+        "stats": {
+            "hp": 20,
+            "maxhp": 20,
+            "STR": 9,
+            "VIT": 8,
+            "AGI": 13,
+            "INT": 3,
+            "WIS": 3,
+            "luck": 2,
+            "attack": 4,
+            "defense": 4
+        },
+        "xp": 5,
+        "copper": 46,
+        "drops": ["1"]
+    },
+    "13": {
+        "name": "boar",
+        "level": 8,
+        "stats": {
+            "hp": 25,
+            "maxhp": 25,
+            "STR": 10,
+            "VIT": 9,
+            "AGI": 14,
+            "INT": 3,
+            "WIS": 3,
+            "luck": 2,
+            "attack": 4,
+            "defense": 4
+        },
+        "xp": 5,
+        "copper": 50,
+        "drops": ["1"]
+    },
+    "14": {
+        "name": "boar",
+        "level": 9,
+        "stats": {
+            "hp": 25,
+            "maxhp": 25,
+            "STR": 11,
+            "VIT": 10,
+            "AGI": 15,
+            "INT": 3,
+            "WIS": 3,
+            "luck": 2,
+            "attack": 5,
+            "defense": 5
+        },
+        "xp": 6,
+        "copper": 54,
+        "drops": ["1"]
+    },
+    "15": {
+        "name": "boar",
+        "level": 10,
+        "stats": {
+            "hp": 30,
+            "maxhp": 30,
+            "STR": 15,
+            "VIT": 14,
+            "AGI": 19,
+            "INT": 3,
+            "WIS": 3,
+            "luck": 2,
+            "attack": 6,
+            "defense": 6
+        },
+        "xp": 10,
+        "copper": 63,
+        "drops": ["1"]
     }
 }
